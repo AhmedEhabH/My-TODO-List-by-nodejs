@@ -8,3 +8,5 @@
   ##### 4- You need to install mongoose ```npm install mongoose```.
   ##### 5- You need to install nodemon ```npm install nodemon```.
 ##### To run it run app.js ```nodemon app```
+###### Then open your browser and write
+# http://127.0.0.1:3000/todo
